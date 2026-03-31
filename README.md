@@ -7,6 +7,17 @@
 |![](img/top.JPG)|![](img/bottom.JPG)|
 |-|-|
 
+## 同梱品
+
+* 基板(センサ取り付け済み or ドライバ基板単体)
+
+## 必要な部品
+
+* FPC(0.5mmピッチ、6P)
+* SK8707-01（ドライバ基板単体を購入した場合）
+  * [Holykeebs](https://holykeebs.com/products/sk8707-01-trackpoint-sensor)
+  * [Sprintek直販](https://www.sprintek.com/en/order/Order.aspx)
+
 ## 組み立て
 
 * センサーをドライバ基板にはんだ付けしてください。ケーブルで繋ぐこともできます。
